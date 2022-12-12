@@ -123,6 +123,11 @@
 # Ricerca da Terminale
 
 |**Generico**|**Facebook**|**Instagram**|**Linedin**|**Telegram**|
-| :--- | ---: | ---: | ---: |
+| :--- | ---: | ---: | ---: | ---: |
 |[****]()|[**GitHub - Ultimate Facebook Scraper**](https://github.com/harismuneer/Ultimate-Facebook-Scraper)|[**GitHub - InstaLooter**](https://github.com/althonos/InstaLooter)|[**GitHub - Linkedin2Username**](https://github.com/initstring/linkedin2username)|[**GitHub - SANS Telegram**](https://github.com/Dutchosintguy/SANS--mic-talk-Telegram-17AUG2020)|
-|[****]()|[****]()|[****]()|[**GitHub - The Endorser**](https://github.com/eth0izzle/the-endorser)|[****]()|
+|[****]()|[**Github - Facebook Video Downloader**](https://fbdown.github.io/)|[**GitHub - Instagram Location Search**](https://github.com/bellingcat/instagram-location-search)|[**GitHub - The Endorser**](https://github.com/eth0izzle/the-endorser)|[**Telegram Phone Number Checker**](https://github.com/bellingcat/telegram-phone-number-checker)|
+|[****]()|[****]()|[**GitHub - Osintgram**](https://github.com/Datalux/Osintgram)|[****]()|[****]()|
+|[****]()|[****]()|[**Pypi - Instaloader**](https://pypi.org/project/instaloader/)|[****]()|[****]()|
+|[****]()|[****]()|[**Pypi - Instalooter**](https://pypi.org/project/instalooter/)|[****]()|[****]()|
+|[****]()|[****]()|[**Pypi - Toutatis**](https://pypi.org/project/toutatis/)|[****]()|[****]()|
+|[****]()|[****]()|[****]()|[****]()|[****]()|
