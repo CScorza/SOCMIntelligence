@@ -1,11 +1,10 @@
 ![Home](https://user-images.githubusercontent.com/98583912/206911044-3ac41b72-76b9-4da9-bc7b-73a9471a04fc.gif)
 
-|**INDICE**|||
-| :--- | :--- | :--- |
-|**Ricerca di Persone**|[**Strumenti Multi Social**]()|
-|**Social Media**|[**Strumenti Online**]()|[**Strumenti da Terminale**]()|
-|**E - Mail**|[**RIcerca profili tramite Email**]()|
-|[**Fonti e Libri**]()|||
+|**INDICE**||||
+| :--- | :--- | :--- | :--- |
+|**Social Media**|[**Strumenti Multi Social**](https://github.com/CScorza/SOCMIntelligence#strumenti-di-ricerca-multi-social)|[**Strumenti Online**](https://github.com/CScorza/SOCMIntelligence#strumenti-online)|[**Strumenti da Terminale**](https://github.com/CScorza/SOCMIntelligence#ricerca-da-terminale)|
+|**E - Mail**|[**RIcerca profili tramite Email**](https://github.com/CScorza/SOCMIntelligence#ricerca-tramite-email)||
+|[**Fonti e Libri**](https://github.com/CScorza/SOCMIntelligence#fonti-e-libri)||||
 
 ```
 Nel Social Media Intelligence (SOCMINT) è possibile monitorare reti e canali sociali 
