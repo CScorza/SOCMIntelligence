@@ -7,6 +7,16 @@
 |**E - Mail**|[**RIcerca profili tramite Email**]()|
 |[**Fonti e Libri**]()|||
 
+```
+Nel Social Media Intelligence (SOCMINT) è possibile monitorare reti e canali sociali 
+per identificare profili, relazioni, organizzazioni e tracciare reti di conoscenze che 
+permettano di costruire un diagramma del contesto in analisi. 
+Tramite la SOCial Media INTelligence è possibile reperire informazioni utili 
+al ciclo di intelligence tramite il monitoraggio e l’analisi dei contenuti 
+scambiati attraverso i Social Media. 
+dalchecco.it
+```
+
 # Social Media 
 
 |**Diffusi**|**ALTRI**|
