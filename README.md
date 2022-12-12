@@ -24,9 +24,12 @@
 ||[**Xing**](https://www.xing.com/)|
 ||[**Discordapp**](https://discordapp.com/invite/5pmK4TU)|
 
-|**Strumenti di ricerca multi Social**|||
-| :--- | :--- | :--- |
+# Strumenti di Ricerca Multi Social
+
+![Immagine19](https://user-images.githubusercontent.com/98583912/207104384-0682decb-ab99-4b20-81f7-bde139e02c6f.gif)
+
 |[**Social Blade**](https://socialblade.com/)|[**Hashatit**](https://www.hashatit.com/)|[**Social Searcher**](https://www.social-searcher.com/)|
+| :--- | :--- | :--- |
 |[**Social Bearing**](https://www.socialbearing.com/)|[**UVRX**](http://www.uvrx.com/social.html)|[**Rivaliq**](https://www.rivaliq.com/)|
 |[**Smat-App**](https://www.smat-app.com/timeline?searchTerm=election&startDate=2020-12-08&endDate=2021-01-08&websites=twitter&aggRedditBy=author&numberOf=10&interval=day&limit=1000&changepoint=false)|
 
