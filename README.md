@@ -2,7 +2,9 @@
 
 |**INDICE**|||
 | :--- | :--- | :--- |
-|**SOCIAL MEDIA**|**Strumenti Online**|**Strumenti da Terminale**|
+|**Ricerca di Persone**|[**Strumenti Multi Social**]()|
+|**Social Media**|[**Strumenti Online**]()|[**Strumenti da Terminale**]()|
+
 
 # Social Media 
 
@@ -21,6 +23,11 @@
 ||[**Xing**](https://www.xing.com/)|
 ||[**Discordapp**](https://discordapp.com/invite/5pmK4TU)|
 
+|**Strumenti di ricerca multi Social**|||
+| :--- | :--- | :--- |
+|[**Social Blade**](https://socialblade.com/)|[**Hashatit**](https://www.hashatit.com/)|[**Social Searcher**](https://www.social-searcher.com/)|
+|[**Social Bearing**](https://www.socialbearing.com/)|[**UVRX**](http://www.uvrx.com/social.html)|[**Rivaliq**](https://www.rivaliq.com/)|
+
 # **Strumenti Online**
 ||**Facebook**|
 | :--- | :--- |
@@ -30,47 +37,34 @@
 |[**Facebook**](https://www.facebook.com/search/videos/?q=Sydney&epa=FILTERS&filters=eyJ2aWRlb3Nfc291cmNlIjoie1wibmFtZVwiOlwidmlkZW9zX2xpdmVcIixcImFyZ3NcIjpcIlwifSJ9)|**Facebook Live Video Search (Modify search location)**|
 |[**Facebook**](https://www.facebook.com/watch)|**Facebook Live Video Search (Modify search location)**|
 |Altri Siti||
-|[**Graph**](http://graph.tips/beta/)||
-|[**Scan Dyno**](http://scan.dyno.vn/)||
-|[**Search Fb**](http://search.fb.com/)||
-|[**Wolframalpha**](http://www.wolframalpha.com/input/?i=facebook+report)||
-|[**Zesty.ca**](http://zesty.ca/facebook)|
-|[**Pili App**](https://it.piliapp.com/facebook/id/)||
-|[**Lookup-ID**](https://lookup-id.com/)||
-|[**Search is Back**](https://searchisback.com/)||
-|[**Stalk Face**](https://stalkface.com/it/)||
+|[**Graph**](http://graph.tips/beta/)|**Facebook Report**|
+|[**Scan Dyno**](http://scan.dyno.vn/)|**Pubblici Informazioni**|
+|[**Wolframalpha**](http://www.wolframalpha.com/input/?i=facebook+report)|**Facebook Report**|
+|[**Zesty.ca**](http://zesty.ca/facebook)|**Cosa pubblica Facebook su di te e sui tuoi amici?**|
+|[**Pili App**](https://it.piliapp.com/facebook/id/)|**ID - Facebook**|
+|[**Lookup-ID**](https://lookup-id.com/)|ID Facebool|
 
 
 ||**Twitter**|
 | :--- | :--- |
 |Ricerca tramite Social||
-|[**Twitter**](https://twitter.com/search-advanced?lang=en)
-|[**Twitter**](http://search.twitter.com/)|
-|Altri Siti||
-|[**backtweets**](http://backtweets.com/)|**Ricerca con Twitter**|
-|[**foller.me**](http://foller.me/)|**Twitter Analytics**|
-|[**Followerwonk**](http://followerwonk.com/)|**Twitter Analytics**|
-|[**Gigatweeter**](http://gigatweeter.com/)|**Riceca tramite Hastag**|
-|[**Sleeping Time**](http://sleepingtime.org/)|**Report**|
-|[**Spoonbill**](http://spoonbill.io/)|**Anai dei Profili Twitter**|
-|[**Trends24**](http://trends24.in/)|**Top Twtter Trending**|
-|[**TWChat**](http://twchat.com/)|**Chat Room  con Tritter**|
-|[**TweetReports**](http://tweetreports.com/twitter-chat-schedule)|**Report Twitter**|
-|[**Twiangulate**](http://twiangulate.com/search/)|**Twitter Rilevanti**|
-|[**"Tweet"delle tendenze**](http://twitterfall.com/)|**Twitter Tendenze**|
-|[**Hashtags**](http://www.hashtags.org/)|**Ricerca per Hastag**|
-|[**Twazzup**](http://www.twazzup.com/)|**Ricerca con Twitter**|
-|[**TweetArchivist**](http://www.tweetarchivist.com/)|**Ricerca per Hastag**|
-|[**TweetStats**](http://www.tweetstats.com/)|**Twitter Stats**|
-|[**twipho**](http://www.twipho.net/)|**Ricerca tramite Tweeter**|
-|[**Twitonomy**](http://www.twitonomy.com/)|**Ricerca tramite Tweeter**|
-|[**Sentiment140**](http://www.twittersentiment.appspot.com/)|**Discover the Twitter**|
-|[**Account Analysis**](https://accountanalysis.lucahammer.com/)|**Accaunt Analysis**|
-|[**Truth Nest**](https://app.truthnest.com/)|**Twitter analytics**|
-|[**Discover Twitter**](https://discover.twitter.com/first-tweet#i_intelligence/)|**Twitter Account Analysis (Twitter)**|
-|[**Tinfoleak.com**](https://tinfoleak.com/)|**Ricerca con Twitter**|
-|[**TweetBeaver**](https://tweetbeaver.com/)|**Converti ID to @Name**|
-|[**Twitter Audit**](https://www.twitteraudit.com/)|**Quanti dei tuoi follower sono falsi?**|
+|[**Twitter**](https://twitter.com/search-advanced?lang=en)|**Ricerca Avanzata**|
+|[**Twitter**](http://search.twitter.com/)|**Ricerca su Twitter**|
+
+|Altri Siti|||||
+| :--- | :--- | :--- | :--- | :--- |
+|[**backtweets**](http://backtweets.com/)|**Ricerca con Twitter**||[**foller.me**](http://foller.me/)|**Twitter Analytics**|
+|[**Followerwonk**](http://followerwonk.com/)|**Twitter Analytics**||[**Gigatweeter**](http://gigatweeter.com/)|**Riceca tramite Hastag**|
+|[**Sleeping Time**](http://sleepingtime.org/)|**Report**||[**Spoonbill**](http://spoonbill.io/)|**Anai dei Profili Twitter**|
+|[**Trends24**](http://trends24.in/)|**Top Twtter Trending**||[**TWChat**](http://twchat.com/)|**Chat Room  con Tritter**|
+|[**TweetReports**](http://tweetreports.com/twitter-chat-schedule)|**Report Twitter**||[**Twiangulate**](http://twiangulate.com/search/)|**Twitter Rilevanti**|
+|[**"Tweet"delle tendenze**](http://twitterfall.com/)|**Twitter Tendenze**||[**Hashtags**](http://www.hashtags.org/)|**Ricerca per Hastag**|
+|[**Twazzup**](http://www.twazzup.com/)|**Ricerca con Twitter**||[**TweetArchivist**](http://www.tweetarchivist.com/)|**Ricerca per Hastag**|
+|[**TweetStats**](http://www.tweetstats.com/)|**Twitter Stats**||[**twipho**](http://www.twipho.net/)|**Ricerca tramite Tweeter**|
+|[**Twitonomy**](http://www.twitonomy.com/)|**Ricerca tramite Tweeter**||[**Sentiment140**](http://www.twittersentiment.appspot.com/)|**Discover the Twitter**|
+|[**Account Analysis**](https://accountanalysis.lucahammer.com/)|**Accaunt Analysis**||[**Truth Nest**](https://app.truthnest.com/)|**Twitter analytics**|
+|[**Discover Twitter**](https://discover.twitter.com/first-tweet#i_intelligence/)|**Twitter Account Analysis (Twitter)**||[**Tinfoleak.com**](https://tinfoleak.com/)|**Ricerca con Twitter**|
+|[**TweetBeaver**](https://tweetbeaver.com/)|**Converti ID to @Name**||[**Twitter Audit**](https://www.twitteraudit.com/)|**Quanti dei tuoi follower sono falsi?**|
 
 
 ||**Instagram**|
@@ -111,4 +105,6 @@
 
 ||**Google Dork**|
 | :--- | :--- |
-||Instagram Person Search (change "person" for name)|site:instagram.com "person"|
+|**Instagram** - site:instagram.com "person"|Instagram Person Search (change "person" for name)|
+|**Facebook** - Site:instagram.com"person"|Facebook Ricerca persona(Cambia "persona" con il nome)|
+
