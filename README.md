@@ -27,6 +27,7 @@
 | :--- | :--- | :--- |
 |[**Social Blade**](https://socialblade.com/)|[**Hashatit**](https://www.hashatit.com/)|[**Social Searcher**](https://www.social-searcher.com/)|
 |[**Social Bearing**](https://www.socialbearing.com/)|[**UVRX**](http://www.uvrx.com/social.html)|[**Rivaliq**](https://www.rivaliq.com/)|
+|[**Smat-App**](https://www.smat-app.com/timeline?searchTerm=election&startDate=2020-12-08&endDate=2021-01-08&websites=twitter&aggRedditBy=author&numberOf=10&interval=day&limit=1000&changepoint=false)|
 
 # **Strumenti Online**
 ||**Facebook**|
@@ -108,3 +109,20 @@
 |**Instagram** - site:instagram.com "person"|Instagram Person Search (change "person" for name)|
 |**Facebook** - Site:instagram.com"person"|Facebook Ricerca persona(Cambia "persona" con il nome)|
 
+**Social Messanger**
+
+|**Telegrma**|**Discord**|
+| :--- | :--- |
+|[**Telegago**](https://cse.google.com/cse?cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.)|[**Disboard**](https://disboard.org/it)|
+|[**Telegramdb**](https://www.telegramdb.org/)|[**Discord**](https://discord.me/servers)|
+
+|**Whatsapp**|**Verifica numero presente su Whatsapp**|
+| :--- | ---: |
+|**"https://api.whatsapp.com/send/?phone=39&text&type=phone_number&app_absent=0"**|**Aggiungere il numero dopo il +39**|
+
+# Ricerca da Terminale
+
+|**Generico**|**Facebook**|**Instagram**|**Linedin**|**Telegram**|
+| :--- | ---: | ---: | ---: |
+|[****]()|[**GitHub - Ultimate Facebook Scraper**](https://github.com/harismuneer/Ultimate-Facebook-Scraper)|[**GitHub - InstaLooter**](https://github.com/althonos/InstaLooter)|[**GitHub - Linkedin2Username**](https://github.com/initstring/linkedin2username)|[**GitHub - SANS Telegram**](https://github.com/Dutchosintguy/SANS--mic-talk-Telegram-17AUG2020)|
+|[****]()|[****]()|[****]()|[**GitHub - The Endorser**](https://github.com/eth0izzle/the-endorser)|[****]()|
