@@ -3,7 +3,8 @@
 |**INDICE**||||
 | :--- | :--- | :--- | :--- |
 |**Social Media**|[**Strumenti Multi Social**](https://github.com/CScorza/SOCMIntelligence#strumenti-di-ricerca-multi-social)|[**Strumenti Online**](https://github.com/CScorza/SOCMIntelligence#strumenti-online)|[**Strumenti da Terminale**](https://github.com/CScorza/SOCMIntelligence#ricerca-da-terminale)|
-|**E - Mail**|[**RIcerca profili tramite Email**](https://github.com/CScorza/SOCMIntelligence#ricerca-tramite-email)||
+|**Strumenti di Ricerca persona**|[**Strumenti Online**]()|[**Strumenti di Ricerca tramite Immagini**](https://github.com/CScorza/Image-OSINT-Forensics#2---ricerca-volti)|
+|**E - Mail**|[**RIcerca profili tramite Email**](https****://github.com/CScorza/SOCMIntelligence#ricerca-tramite-email)||
 |[**Fonti e Libri**](https://github.com/CScorza/SOCMIntelligence#fonti-e-libri)||||
 
 ```
@@ -136,6 +137,19 @@ dalchecco.it
 | :--- | :--- |
 |**Aggiungere il numero dopo il +39**|**"https://api.whatsapp.com/send/?phone=39&text&type=phone_number&app_absent=0"**|
 
+# Strumenti Ricerca persona
+
+![Immagine5](https://user-images.githubusercontent.com/98583912/207664769-a424c124-ed60-4391-939e-89379ecf30ad.gif)
+
+**Online**
+
+|[**Fast People Search**](https://www.fastpeoplesearch.com/)|[**Ricerca nei registri pubblici**](https://www.peoplefinder.com/)|[**Intelx.io - Ricerca persona per nome completo**](https://intelx.io/tools?tab=person)|
+| :--- | :--- | :--- |
+|[**Webmii - People search engine**](https://webmii.com/)|[**Free People Search**](https://www.idcrawl.com/)|[**CSE Google -Osint ME**](https://cse.google.com/cse?cx=14db36e158cd791c0)| 
+|[**Trova le informazioni di contatto tramite indirro E-mail**](http://itools.com/search/people-search)|[**Peekyou - People Search Made Easy**](https://www.peekyou.com/)|[**Yandex - Ricerca Persone**](https://yandex.ru/people)|
+|[**Trova persone**](https://www.whitepages.com/)|[**411.com**](https://www.411.com/)|[**Public Records Search**](https://www.truthfinder.com/)|
+|[**People Search**](https://www.zabasearch.com/)|[**Fast People Search**](https://radaris.com/)|[**FREE PUBLIC DATA SEARCH**](https://xlek.com/)|
+|[**Free People Search Engine**](https://ufind.name/)|[**Find a person Canada**](https://www.canada411.ca/)|[**OSINT TOOLKIT**](https://one-plus)|
 
 # Ricerca da Terminale
 
