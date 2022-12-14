@@ -162,8 +162,13 @@ dalchecco.it
 |[**Hunter**](https://hunter.io/)|[**GitHub - iKy**](https://github.com/kennbroorg/iKy)|
 |[**Simple Email Reputation**](https://emailrep.io/)|[**GitHub - SocialPwned**](https://github.com/MrTuxx/SocialPwned)|
 |[**SPYdialer**](https://www.spydialer.com)|[**GitHub - GHunt**](https://github.com/mxrch/GHunt)|
-|[**Epieos**](https://epieos.com/)|[]()|
-
+|[**Epieos**](https://epieos.com/)|[**GitHub - ProtOSINT**](https://github.com/pixelbubble/ProtOSINT)|
+|[**OSINT.SH - REVERSE WHOIS**](https://osint.sh/reversewhois/)|[**GitHub - Buster**](https://github.com/sham00n/buster)|
+|[**Email-Format**](https://www.email-format.com/)|[**GitHub - WhatBreach**](https://github.com/Ekultek/WhatBreach)|
+|[**Email Dossier**](https://centralops.net/co/emaildossier.aspx)|[**Pypi - h8mail**](https://pypi.org/project/h8mail/)|
+|[**EmailHeaders**](https://mxtoolbox.com/EmailHeaders.aspx)|[**Pypi - EmailHarvester 2.0.1**](https://pypi.org/project/EmailHarvester/)|
+|[**E-mail search tool**](https://www.aware-online.com/osint-tools/e-mail-search-tool/)|[**GitHub - Email2phonenumber**](https://github.com/martinvigo/email2phonenumber)|
+|[**Inoitsu**](https://www.hotsheet.com/inoitsu/)|[**GitHub - Infoga**](https://github.com/m4ll0k/Infoga)|
 
 # Fonti e Libri 
 
