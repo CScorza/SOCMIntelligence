@@ -3,7 +3,7 @@
 |**INDICE**||||
 | :--- | :--- | :--- | :--- |
 |**Social Media**|[**Strumenti Multi Social**](https://github.com/CScorza/SOCMIntelligence#strumenti-di-ricerca-multi-social)|[**Strumenti Online**](https://github.com/CScorza/SOCMIntelligence#strumenti-online)|[**Strumenti da Terminale**](https://github.com/CScorza/SOCMIntelligence#ricerca-da-terminale)|
-|**Strumenti di Ricerca persona**|[**Strumenti Online**]()|[**Strumenti di Ricerca tramite Immagini**](https://github.com/CScorza/Image-OSINT-Forensics#2---ricerca-volti)|
+|**Strumenti di Ricerca persona**|[**Strumenti Online**](https://github.com/CScorza/SOCMIntelligence#strumenti-ricerca-persona)|[**Strumenti di Ricerca tramite Immagini**](https://github.com/CScorza/Image-OSINT-Forensics#2---ricerca-volti)|
 |**E - Mail**|[**RIcerca profili tramite Email**](https****://github.com/CScorza/SOCMIntelligence#ricerca-tramite-email)||
 |[**Fonti e Libri**](https://github.com/CScorza/SOCMIntelligence#fonti-e-libri)||||
 
