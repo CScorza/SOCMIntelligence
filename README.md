@@ -136,6 +136,14 @@ dalchecco.it
 |**Telegram**|**Discord**|
 |[**Telegago**](https://cse.google.com/cse?cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.)|[**Disboard**](https://disboard.org/it)|
 |[**Telegramdb**](https://www.telegramdb.org/)|[**Discord**](https://discord.me/servers)|
+|[**intelx.io - Telegram**](https://intelx.io/tools?tab=telegram)|[]()|
+|[**Lyzem Search Telegram**](https://lyzem.com/)|[]()|
+|[**Telegram Group**](https://www.telegram-group.com/en/)|[]()|
+|[**Telegram Search Engine**](https://xtea.io/ts_en.html#gsc.tab=0)|[]()|
+|[**telemetr.io**](https://telemetr.io/en/channels)|[]()|
+|[**Telegram Catalog**](https://telegramcatalog.com/en/channels)|[]()|
+|[**CSE Google - Telegram**](https://cse.google.com/cse?cx=006368593537057042503:ig4r3rz35qi#gsc.tab=0)|[]()|
+|[**TGSTAT**](https://tgstat.com/)|[]()|
 
 **Verifica numero presente su Whatsapp**
 |![Whatsapp_37229](https://user-images.githubusercontent.com/98583912/190934139-b3b41790-aecd-4a9d-9b00-59249a70d0eb.png)|**Whatsapp**|
