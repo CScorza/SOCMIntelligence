@@ -199,6 +199,8 @@ dalchecco.it
 |[**EmailHeaders**](https://mxtoolbox.com/EmailHeaders.aspx)|[**Pypi - EmailHarvester 2.0.1**](https://pypi.org/project/EmailHarvester/)|
 |[**E-mail search tool**](https://www.aware-online.com/osint-tools/e-mail-search-tool/)|[**GitHub - Email2phonenumber**](https://github.com/martinvigo/email2phonenumber)|
 |[**Inoitsu**](https://www.hotsheet.com/inoitsu/)|[**GitHub - Infoga**](https://github.com/m4ll0k/Infoga)|
+|[**Avatar API**](https://avatarapi.com/)||
+
 
 # Fonti e Libri 
 
