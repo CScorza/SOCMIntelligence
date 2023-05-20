@@ -94,6 +94,12 @@ dalchecco.it
 |[**Picuki**](https://www.picuki.com/)|**Instagram Editor and Viewer**|
 |[**Gramho.com**](https://gramho.com/)|**Analizzatore e visualizzatore di Instagram**|
 |[**Hashtagify**](http://hashtagify.me/)|**Tendenze Hastag**|
+|**Estensioni GoogleChrome**||
+|[**InsC - Export Instagram Comments & Giveaway**](https://chrome.google.com/webstore/detail/insc-export-instagram-com/hdfhpnjnlgekgjmniifdieiflhfdkmlk)|**Estensione per leggere o scaricare i commenti dei postagens**|
+|[**InsE - Email Exporter of Instagram Followers**](https://chrome.google.com/webstore/detail/inse-email-exporter-of-in/hboikjnbkhkjmllgdcflmbcojbpklcca)|**Estensione per raccogliere e-mail di contatti su instagram**|
+|[**InsL - Export Instagram Likes & Giveaway**](https://chrome.google.com/webstore/detail/insl-export-instagram-lik/iiblfonkagipdojommmomopjldpibdbb)|**Estensione per fare il download di Mi piace tramite posta**|
+|[**InsFo - Follower Export tool**](https://chrome.google.com/webstore/detail/insfo-follower-export-too/bckleejkdhlponanidmjfjdigpahlado)|**Estensione per fare o scaricare i seguidores di un conto**|
+|[**INSSIST - Assistente da Web para Instagram**](https://chrome.google.com/webstore/detail/inssist-web-client-for-in/bcocdbombenodlegijagbhdjbifpiijp?hl=pt-BR)|**Estensione per disattivare la visualizzazione di messaggi non diretti e visualizzare la storia in modo fantasma**|
 
 |![TikTok](https://user-images.githubusercontent.com/98583912/207094449-4a0fa82c-be1f-4041-9468-7c70fe090525.gif)|**TikTok**|
 | :--- | :--- |
