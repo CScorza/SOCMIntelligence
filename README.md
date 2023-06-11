@@ -186,7 +186,7 @@ dalchecco.it
 |[**GitHub - Social Analyzer**](https://github.com/qeeqbox/social-analyzer)|[]()|[**GitHub - Osintgram**](https://github.com/Datalux/Osintgram)|[]()|[**GitHub - Telegram Mining**](https://github.com/maxbundscherer/telegram-analysis)|[]()|[]()|
 |[**GitHub - TIGMINT**](https://github.com/TIGMINT/TIGMINT)|[]()|[**Pypi - Instaloader**](https://pypi.org/project/instaloader/)|[]()|[**GitHub - Tripadvisor Scraper**](https://github.com/maxCopell/tripadvisor-scraper)|[]()|[]()|
 |[**GitHub - Vichiti**](https://github.com/umair9747/vichiti)|[]()|[**Pypi - Instalooter**](https://pypi.org/project/instalooter/)|[]()|[**GitHub - Telegram Nearby Map**](https://github.com/tejado/telegram-nearby-map)|[]()|[]()|
-|[]()|[]()|[**Pypi - Toutatis**](https://pypi.org/project/toutatis/)|[]()|[**GitHub - Awesome Telegram OSINT**](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)|[]()|[]()|
+|[**GitHub - Uscrapper**](https://github.com/z0m31en7/Uscrapper)|[]()|[**Pypi - Toutatis**](https://pypi.org/project/toutatis/)|[]()|[**GitHub - Awesome Telegram OSINT**](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)|[]()|[]()|
 |[]()|[]()|[**GitHub - Noinstagram**](https://github.com/datvance/noinstagram)|[]()|[]()|[]()|[]()|
 
 # Ricerca tramite Email
