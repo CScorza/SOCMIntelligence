@@ -187,7 +187,7 @@ dalchecco.it
 |[**GitHub - TIGMINT**](https://github.com/TIGMINT/TIGMINT)|[]()|[**Pypi - Instaloader**](https://pypi.org/project/instaloader/)|[]()|[**GitHub - Tripadvisor Scraper**](https://github.com/maxCopell/tripadvisor-scraper)|[]()|[]()|
 |[**GitHub - Vichiti**](https://github.com/umair9747/vichiti)|[]()|[**Pypi - Instalooter**](https://pypi.org/project/instalooter/)|[]()|[**GitHub - Telegram Nearby Map**](https://github.com/tejado/telegram-nearby-map)|[]()|[]()|
 |[**GitHub - Uscrapper**](https://github.com/z0m31en7/Uscrapper)|[]()|[**Pypi - Toutatis**](https://pypi.org/project/toutatis/)|[]()|[**GitHub - Awesome Telegram OSINT**](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)|[]()|[]()|
-|[]()|[]()|[**GitHub - Noinstagram**](https://github.com/datvance/noinstagram)|[]()|[]()|[]()|[]()|
+|[**GitHub - Sagemode**](https://github.com/senran101604/sagemode)|[]()|[**GitHub - Noinstagram**](https://github.com/datvance/noinstagram)|[]()|[]()|[]()|[]()|
 
 # Ricerca tramite Email
 
