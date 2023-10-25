@@ -179,7 +179,7 @@ dalchecco.it
 
 ---> [**ISO per OSINT**](https://github.com/CScorza/DistroForensics#iso)
 
-[**Strumenti da GitHub**]
+**Strumenti da GitHub**
 
 |**Generico**|**Facebook**|**Instagram**|**Linedin**|**Telegram**|**Discord**|**Twitter**|
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -197,6 +197,9 @@ dalchecco.it
 
 |**Online**|**Da Terminale**|
 | :--- | :--- |
+|[**OSINTIndustries**](https://osint.industries/)|[**GitHub - Infoga**](https://github.com/m4ll0k/Infoga)|
+|[**Castrick**](https://castrickclues.com/)|[**GitHub - Email2phonenumber**](https://github.com/martinvigo/email2phonenumber)|
+|[**IntelX**](https://intelx.io/)|[**Pypi - EmailHarvester 2.0.1**](https://pypi.org/project/EmailHarvester/)|
 |[**Hunter**](https://hunter.io/)|[**GitHub - iKy**](https://github.com/kennbroorg/iKy)|
 |[**Simple Email Reputation**](https://emailrep.io/)|[**GitHub - SocialPwned**](https://github.com/MrTuxx/SocialPwned)|
 |[**SPYdialer**](https://www.spydialer.com)|[**GitHub - GHunt**](https://github.com/mxrch/GHunt)|
@@ -204,9 +207,9 @@ dalchecco.it
 |[**OSINT.SH - REVERSE WHOIS**](https://osint.sh/reversewhois/)|[**GitHub - Buster**](https://github.com/sham00n/buster)|
 |[**Email-Format**](https://www.email-format.com/)|[**GitHub - WhatBreach**](https://github.com/Ekultek/WhatBreach)|
 |[**Email Dossier**](https://centralops.net/co/emaildossier.aspx)|[**Pypi - h8mail**](https://pypi.org/project/h8mail/)|
-|[**EmailHeaders**](https://mxtoolbox.com/EmailHeaders.aspx)|[**Pypi - EmailHarvester 2.0.1**](https://pypi.org/project/EmailHarvester/)|
-|[**E-mail search tool**](https://www.aware-online.com/osint-tools/e-mail-search-tool/)|[**GitHub - Email2phonenumber**](https://github.com/martinvigo/email2phonenumber)|
-|[**Inoitsu**](https://www.hotsheet.com/inoitsu/)|[**GitHub - Infoga**](https://github.com/m4ll0k/Infoga)|
+|[**EmailHeaders**](https://mxtoolbox.com/EmailHeaders.aspx)||
+|[**E-mail search tool**](https://www.aware-online.com/osint-tools/e-mail-search-tool/)||
+|[**Inoitsu**](https://www.hotsheet.com/inoitsu/)||
 |[**Avatar API**](https://avatarapi.com/)||
 
 
