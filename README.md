@@ -179,6 +179,8 @@ dalchecco.it
 
 ---> [**ISO per OSINT**](https://github.com/CScorza/DistroForensics#iso)
 
+[**Strumenti da GitHub**]
+
 |**Generico**|**Facebook**|**Instagram**|**Linedin**|**Telegram**|**Discord**|**Twitter**|
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |[**Maltego**](https://www.maltego.com/)|[**GitHub - Ultimate Facebook Scraper**](https://github.com/harismuneer/Ultimate-Facebook-Scraper)|[**GitHub - InstaLooter**](https://github.com/althonos/InstaLooter)|[**GitHub - Linkedin2Username**](https://github.com/initstring/linkedin2username)|[**GitHub - SANS Telegram**](https://github.com/Dutchosintguy/SANS--mic-talk-Telegram-17AUG2020)|[**GitHub - DiscordOSINT**](https://github.com/husseinmuhaisen/DiscordOSINT)|[**GitHub - TWINT**](https://github.com/twintproject/twint)|
