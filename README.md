@@ -133,7 +133,7 @@ dalchecco.it
 |![GoogleDork](https://user-images.githubusercontent.com/98583912/207095278-6abdf297-e28a-4e2c-a665-e03cfe6a4e9f.gif)|**Google Dork**|
 | :--- | :--- |
 |**Instagram** - site:instagram.com "person"|Instagram Person Search (change "person" for name)|
-|**Facebook** - Site:instagram.com"person"|Facebook Ricerca persona(Cambia "persona" con il nome)|
+|**Facebook** - site:facebook.com"person"|Facebook Ricerca persona(Cambia "persona" con il nome)|
 |[**Telegram Search**](https://cse.google.com/cse?cx=004805129374225513871:p8lhfo0g3hg)||
 
 **Social Messanger**
