@@ -151,8 +151,9 @@ dalchecco.it
 |[**Telegram Search Engine**](https://xtea.io/ts_en.html#gsc.tab=0)|[**Discord ID Creation Date Checker**](https://hugo.moe/discord/discord-id-creation-date.html)|
 |[**telemetr.io**](https://telemetr.io/en/channels)|[**Discord ID Lookup**](https://discord.id/)|
 |[**Telegram Catalog**](https://telegramcatalog.com/en/channels)|[**Discord History Tracker**](https://dht.chylex.com/)|
-|[**CSE Google - Telegram**](https://cse.google.com/cse?cx=006368593537057042503:ig4r3rz35qi#gsc.tab=0)|[****]()|
-|[**TGSTAT**](https://tgstat.com/)|[**Public Discord Bots & Servers**](https://discord.me/servers)|
+|[**CSE Google - Telegram**](https://cse.google.com/cse?cx=006368593537057042503:ig4r3rz35qi#gsc.tab=0)|[**Public Discord Bots & Servers**](https://discord.me/servers)
+|[**TGSTAT**](https://tgstat.com/)||
+|[**Telemetry**](https://www.telemetryapp.io/)||
 
 **Verifica numero presente su Whatsapp**
 |![Whatsapp_37229](https://user-images.githubusercontent.com/98583912/190934139-b3b41790-aecd-4a9d-9b00-59249a70d0eb.png)|**Whatsapp**|
