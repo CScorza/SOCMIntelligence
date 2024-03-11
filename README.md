@@ -60,7 +60,8 @@ dalchecco.it
 |[**Wolframalpha**](http://www.wolframalpha.com/input/?i=facebook+report)|**Facebook Report**|
 |[**Zesty.ca**](http://zesty.ca/facebook)|**Cosa pubblica Facebook su di te e sui tuoi amici?**|
 |[**Pili App**](https://it.piliapp.com/facebook/id/)|**ID - Facebook**|
-|[**Lookup-ID**](https://lookup-id.com/)|ID Facebool|
+|[**Lookup-ID**](https://lookup-id.com/)|ID Facebook|
+|[**Who posted What**](https://www.whopostedwhat.com/)|**ID and Search Specific**|
 
 |![Twitter](https://user-images.githubusercontent.com/98583912/207092653-275b2fa3-80e5-4fe1-b521-63374697423d.gif)|**Twitter**|
 | :--- | :--- |
