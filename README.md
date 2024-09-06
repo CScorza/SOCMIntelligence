@@ -160,6 +160,7 @@ dalchecco.it
 |![Whatsapp_37229](https://user-images.githubusercontent.com/98583912/190934139-b3b41790-aecd-4a9d-9b00-59249a70d0eb.png)|**Whatsapp**|
 | :--- | :--- |
 |**Aggiungere il numero dopo il +39**|**"https://api.whatsapp.com/send/?phone=39&text&type=phone_number&app_absent=0"**|
+|**Ricerca account WhatsApp**|[**Whatsapp Check Leaked**](https://whatsapp.checkleaked.cc/?s=35)|
 
 # Strumenti Ricerca persona
 
