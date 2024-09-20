@@ -184,7 +184,7 @@ dalchecco.it
 
 **Strumenti da GitHub**
 
-|**Generico**|**Facebook**|**Instagram**|**Linedin**|**Telegram**|**Discord**|**Twitter**|
+|**Generico**|**Facebook**|**Instagram**|**LinkedIn**|**Telegram**|**Discord**|**Twitter**|
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |[**Maltego**](https://www.maltego.com/)|[**GitHub - Ultimate Facebook Scraper**](https://github.com/harismuneer/Ultimate-Facebook-Scraper)|[**GitHub - InstaLooter**](https://github.com/althonos/InstaLooter)|[**GitHub - Linkedin2Username**](https://github.com/initstring/linkedin2username)|[**GitHub - SANS Telegram**](https://github.com/Dutchosintguy/SANS--mic-talk-Telegram-17AUG2020)|[**GitHub - DiscordOSINT**](https://github.com/husseinmuhaisen/DiscordOSINT)|[**GitHub - TWINT**](https://github.com/twintproject/twint)|
 |[**GitHub - Maigret**](https://github.com/soxoj/maigret/tree/v0.3.1)|[**Github - Facebook Video Downloader**](https://fbdown.github.io/)|[**GitHub - Instagram Location Search**](https://github.com/bellingcat/instagram-location-search)|[**GitHub - The Endorser**](https://github.com/eth0izzle/the-endorser)|[**GitHub - Telegram Phone Number Checker**](https://github.com/bellingcat/telegram-phone-number-checker)|[]()|[**GitHub - Twosint**](https://github.com/falkensmz/tw1tter0s1nt)|
