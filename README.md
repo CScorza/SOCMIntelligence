@@ -123,6 +123,28 @@ dalchecco.it
 |[**Hubite**](https://hubite.com/onlyfans-search/)|[**Findr.Fans**](https://findr.fans/)|
 |[**Dudjob**](https://dudjob.com/)||
 
+![Immagine1](https://github.com/user-attachments/assets/dcddad7b-6eaf-4a72-8c54-41c747a6b7e2)
+
+Come ricavare il profilo tinder senza registrarsi alla piattaforma d'incontri:
+```
+Url: tinder.com/@(username del target)
+```
+Come ricavare la data di nascita o l'id o il nome intero
+
+```
+Una volta entrato nel profilo del target,
+facciamo "VISUALIZZA SORGENTE", Ctrl+F e scriviamo:
+- birth_date:
+- id:
+- name:
+```
+### Esempio 
+![image](https://github.com/user-attachments/assets/6adb5fe3-6d9e-4a62-91e0-a5a6bba5d0ad)
+
+
+
+
+Se vuoi sapere come recuperare il profilo Tinder di un soggetto |
 |![GeoSocial](https://user-images.githubusercontent.com/98583912/207095841-05180fca-af83-45f6-88c3-a7b48da8db7e.gif)|**Geo Social**|||
 | :--- | :--- | :--- | :--- |
 |**Twitter**|**Instagram**|**YouTube**|**Snapchat**|
