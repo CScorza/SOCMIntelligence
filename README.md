@@ -107,6 +107,8 @@ dalchecco.it
 |[**OsintCombine**](https://www.osintcombine.com/tiktok-quick-search)|**TikTok Quick Search**|
 |[**Analisa**](https://analisa.io/#)|**Instagram AI Analytics**|
 |[**Search4Faces**](https://search4faces.com/tt00/index.html)|**Cerca per avatar tiktok.com**|
+|[**Sticktock**](https://sticktock.com/)|**Navigazione Anonima**|
+|[**Tikface**](https://www.tikface.com/)|**navigazione Anonima**|
 
 |![YouTube](https://user-images.githubusercontent.com/98583912/207094756-cfeb0d23-6c1d-4522-80e1-f5742684ef1d.gif)|**YouTube**|
 | :--- | :--- |
@@ -141,10 +143,7 @@ facciamo "VISUALIZZA SORGENTE", Ctrl+F e scriviamo:
 ### Esempio 
 ![image](https://github.com/user-attachments/assets/6adb5fe3-6d9e-4a62-91e0-a5a6bba5d0ad)
 
-
-
-
-Se vuoi sapere come recuperare il profilo Tinder di un soggetto |
+|Se vuoi sapere come recuperare il profilo Tinder di un soggetto |
 |![GeoSocial](https://user-images.githubusercontent.com/98583912/207095841-05180fca-af83-45f6-88c3-a7b48da8db7e.gif)|**Geo Social**|||
 | :--- | :--- | :--- | :--- |
 |**Twitter**|**Instagram**|**YouTube**|**Snapchat**|
