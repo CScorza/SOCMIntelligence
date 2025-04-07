@@ -215,7 +215,7 @@ facciamo "VISUALIZZA SORGENTE", Ctrl+F e scriviamo:
 |[**GitHub - Vichiti**](https://github.com/umair9747/vichiti)|[]()|[**Pypi - Instalooter**](https://pypi.org/project/instalooter/)|[]()|[**GitHub - Telegram Nearby Map**](https://github.com/tejado/telegram-nearby-map)|[]()|[]()|
 |[**GitHub - Uscrapper**](https://github.com/z0m31en7/Uscrapper)|[]()|[**Pypi - Toutatis**](https://pypi.org/project/toutatis/)|[]()|[**GitHub - Awesome Telegram OSINT**](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)|[]()|[]()|
 |[**GitHub - Sagemode**](https://github.com/senran101604/sagemode)|[]()|[**GitHub - Noinstagram**](https://github.com/datvance/noinstagram)|[]()|[]()|[]()|[]()|
-
+|[**GitHub - linkook**](https://github.com/JackJuly/linkook)|||||||
 # Ricerca tramite Email
 
 ![Emailgif](https://user-images.githubusercontent.com/98583912/207100258-9908de33-e2ba-42c7-b2ed-1f05e00ccdb1.gif)
