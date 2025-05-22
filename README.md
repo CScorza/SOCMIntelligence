@@ -242,6 +242,5 @@ we do "VIEW SOURCE", Ctrl+F and write:
 |**Sources**|**Books**|
 | :--- | :--- |
 |[**Joe Gray - Practical Social Engineering**](https://www.amazon.it/Practical-Social-Engineering-Joe-Gray/dp/171850098X/ref=sr_1_3?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3R9S4NKQF0MR&keywords=Social+Engineering&qid=1670862849&s=books&sprefix=social+engineering%2Cstripbooks%2C156&sr=1-3)|[**Del Checco - Socmint**](https://www.dalchecco.it/servizi/intelligence/socmint/)|
-|[**Riccardo Meggiato - Social Media Mining**](https://www.amazon.it/gp/product/8850335423/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)|
-||[**Mirko Lapi - Open Source Intelligence**](https://www.amazon.it/gp/product/8896069459/ref=ewc_pr_img_4?smid=A11IL2PNWYJU7H&psc=1)||
+|[**Riccardo Meggiato - Social Media Mining**](https://www.amazon.it/gp/product/8850335423/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)|[**Mirko Lapi - Open Source Intelligence**](https://www.amazon.it/gp/product/8896069459/ref=ewc_pr_img_4?smid=A11IL2PNWYJU7H&psc=1)||
 
