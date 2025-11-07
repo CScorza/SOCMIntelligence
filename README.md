@@ -49,6 +49,7 @@ dalchecco.it
 | 📈 [Social Blade](https://socialblade.com/)             | 🔠 [Hashatit](https://www.hashatit.com/)              | 🕵️ [Social Searcher](https://www.social-searcher.com/) |
 | 📊 [Social Bearing](https://www.socialbearing.com/)     | 🧬 [UVRX](http://www.uvrx.com/social.html)            | 📉 [Rivaliq](https://www.rivaliq.com/)                 |
 | 📡 [Smat-App](https://www.smat-app.com/timeline?searchTerm=election&startDate=2020-12-08&endDate=2021-01-08&websites=twitter&aggRedditBy=author&numberOf=10&interval=day&limit=1000&changepoint=false) | 🧩 [OSINT ToolKit](https://one-plus.github.io/) | 💣 [Osint Rocks](https://osint.rocks/)              |
+|            |              |🧰 [coldrelation](https://coldrelation.com)  |
 
 # **Online Tools**
 
