@@ -124,6 +124,7 @@ dalchecco.it
 | [🕸️ Tinfoleak](https://tinfoleak.com/) | OSINT completo su un utente Twitter |
 | [🧪 TweetBeaver](https://tweetbeaver.com/) | Converti ID ↔︎ username, cronologia, interazioni |
 | [🔍 Twitter Audit](https://www.twitteraudit.com/) | Analizza quanti follower di un account sono fake |
+| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | API indipendente per dati X (Twitter): ricerca, export follower e monitor |
 
 
 ## 📸 Instagram OSINT Tools
