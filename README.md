@@ -350,6 +350,9 @@ dalchecco.it
 
 | **Online Tools** | **Terminal / GitHub Tools** |
 | :--- | :--- |
+|[Behindtheemail](https://behindtheemail.com/)|
+|[Emailosint](https://emailosint.org/)|
+|[revealer.us](https://revealer.us)|
 | [OSINTIndustries](https://osint.industries/) | [Infoga](https://github.com/m4ll0k/Infoga) |
 | [Castrick](https://castrickclues.com/) | [Email2phonenumber](https://github.com/martinvigo/email2phonenumber) |
 | [IntelX](https://intelx.io/) | [EmailHarvester](https://pypi.org/project/EmailHarvester/) |
