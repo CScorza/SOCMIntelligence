@@ -306,6 +306,7 @@ dalchecco.it
 | [TGScope](https://tgscope.io/) |  |
 | [TGScope Channel Creation Date](https://tgscope.io/tools/telegram-channel-creation-date) |  |
 | [TGScope Channel Network Checker](https://tgscope.io/tools/telegram-channel-network) |  |
+| [TGScope Channel Audit](https://tgscope.io/tools/telegram-channel-audit) |  |
 
 ---
 
