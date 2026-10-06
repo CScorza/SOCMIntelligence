@@ -304,6 +304,7 @@ dalchecco.it
 | [TGSTAT](https://tgstat.com/) |  |
 | [Telemetry](https://www.telemetryapp.io/) |  |
 | [TGScope](https://tgscope.io/) |  |
+| [TGScope Channel Creation Date](https://tgscope.io/tools/telegram-channel-creation-date) |  |
 
 ---
 
