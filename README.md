@@ -303,6 +303,8 @@ dalchecco.it
 | [Google CSE - Telegram](https://cse.google.com/cse?cx=006368593537057042503:ig4r3rz35qi#gsc.tab=0) | [Public Discord Bots & Servers](https://discord.me/servers) |
 | [TGSTAT](https://tgstat.com/) |  |
 | [Telemetry](https://www.telemetryapp.io/) |  |
+| [TGScope](https://tgscope.io/) |  |
+| [TGScope Channel Creation Date](https://tgscope.io/tools/telegram-channel-creation-date) |  |
 
 ---
 
