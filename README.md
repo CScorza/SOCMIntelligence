@@ -126,6 +126,7 @@ dalchecco.it
 | [🧪 TweetBeaver](https://tweetbeaver.com/) | Converti ID ↔︎ username, cronologia, interazioni |
 | [🔍 Twitter Audit](https://www.twitteraudit.com/) | Analizza quanti follower di un account sono fake |
 | [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | API indipendente per dati X (Twitter): ricerca, export follower e monitor |
+| [📊 twtData](https://twtdata.com/) | Archivio gratuito dei trend X per paese e per giorno; export CSV di follower, following e tweet (a pagamento) |
 
 
 ## 📸 Instagram OSINT Tools
