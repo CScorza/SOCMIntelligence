@@ -169,6 +169,7 @@ dalchecco.it
 | [🧑‍🎨 Search4Faces](https://search4faces.com/tt00/index.html) | Ricerca di avatar TikTok tramite riconoscimento facciale |
 | [🕵️ Sticktock](https://sticktock.com/) | Navigazione anonima su TikTok |
 | [👤 Tikface](https://www.tikface.com/) | Visualizzazione anonima dei profili TikTok |
+| [📈 TKMetrics](https://tkmetrics.com/) | Statistiche di profili TikTok: visualizzazioni medie ed engagement sui video recenti |
 
 ## 📺 YouTube OSINT Tool
 
