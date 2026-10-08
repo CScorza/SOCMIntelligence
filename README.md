@@ -143,6 +143,7 @@ dalchecco.it
 | [🖼️ Picuki](https://www.picuki.com/) | Viewer ed editor di contenuti pubblici |
 | [📈 Gramho](https://gramho.com/) | Analisi e visualizzazione di profili pubblici |
 | [🏷️ Hashtagify](http://hashtagify.me/) | Monitoraggio e trending di hashtag |
+| [📊 IGDataHub](https://igdatahub.com/) | Statistiche di profili pubblici: follower, engagement rate e post migliori |
 
 ### 🧩 Estensioni Google Chrome per Instagram
 
