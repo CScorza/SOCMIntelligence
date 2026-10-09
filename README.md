@@ -265,6 +265,7 @@ dalchecco.it
 |:------------|:------------------|
 | [👁️ OSINT Combine Snapchat Multi-Viewer](https://www.osintcombine.com/snapchat-multi-viewer) | Multi-tool viewer per mappe Snapchat |
 | [🗺️ Snap Map](https://map.snapchat.com/) | Mappa pubblica dei contenuti condivisi su Snap con posizione attiva |
+| [📊 SnapDataHub](https://snapdatahub.com/) | Statistiche di profili Snapchat pubblici: iscritti e rendimento degli Spotlight; elenco giornaliero dei creator in crescita |
 
 ---
 
