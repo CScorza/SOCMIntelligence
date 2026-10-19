@@ -47,7 +47,7 @@ dalchecco.it
 | 📊 **Analytics & Monitoring** | 🔍 **Search & Discovery** | 🧰 **Toolkits & Platforms** |
 |:-----------------------------|:---------------------------|:-----------------------------|
 | 📈 [Social Blade](https://socialblade.com/)             | 🔠 [Hashatit](https://www.hashatit.com/)              | 🕵️ [Social Searcher](https://www.social-searcher.com/) |
-| 📊 [Social Bearing](https://www.socialbearing.com/)     | 🧬 [UVRX](http://www.uvrx.com/social.html)            | 📉 [Rivaliq](https://www.rivaliq.com/)                 |
+| 📊 Social Bearing (chiuso)     | 🧬 [UVRX](http://www.uvrx.com/social.html)            | 📉 [Rivaliq](https://www.rivaliq.com/)                 |
 | 📡 [Smat-App](https://www.smat-app.com/timeline?searchTerm=election&startDate=2020-12-08&endDate=2021-01-08&websites=twitter&aggRedditBy=author&numberOf=10&interval=day&limit=1000&changepoint=false) | 🧩 [OSINT ToolKit](https://one-plus.github.io/) | 💣 [Osint Rocks](https://osint.rocks/)              |
 |            |              |🧰 [coldrelation](https://coldrelation.com)  |
 |            |              | 🤖 [Jev Social](https://github.com/socai-io/jev-social) |
@@ -121,9 +121,7 @@ dalchecco.it
 | [💬 Sentiment140](http://www.twittersentiment.appspot.com/) | Analisi del sentiment nei tweet |
 | [🧮 Account Analysis](https://accountanalysis.lucahammer.com/) | Dashboard visuale delle metriche account |
 | [🕵️ Truth Nest](https://app.truthnest.com/) | Analisi approfondita di utenti Twitter |
-| [🕰️ First Tweet (Twitter)](https://discover.twitter.com/first-tweet#i_intelligence/) | Mostra il primo tweet di un account |
 | [🕸️ Tinfoleak](https://tinfoleak.com/) | OSINT completo su un utente Twitter |
-| [🧪 TweetBeaver](https://tweetbeaver.com/) | Converti ID ↔︎ username, cronologia, interazioni |
 | [🔍 Twitter Audit](https://www.twitteraudit.com/) | Analizza quanti follower di un account sono fake |
 | [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | API indipendente per dati X (Twitter): ricerca, export follower e monitor |
 | [📊 twtData](https://twtdata.com/) | Archivio gratuito dei trend X per paese e per giorno; export CSV di follower, following e tweet (a pagamento) |
@@ -140,7 +138,6 @@ dalchecco.it
 |:-----------|:-------------------|
 | [🎯 Picodash](https://www.picodash.com/) | Scopri target e influencer Instagram |
 | [📤 Export Comments](https://exportcomments.com/#) | Esporta commenti da post in Excel/CSV |
-| [📊 Analisa.io](https://analisa.io/) | Analisi avanzata profili e hashtag |
 | [🖼️ Picuki](https://www.picuki.com/) | Viewer ed editor di contenuti pubblici |
 | [📈 Gramho](https://gramho.com/) | Analisi e visualizzazione di profili pubblici |
 | [🏷️ Hashtagify](http://hashtagify.me/) | Monitoraggio e trending di hashtag |
@@ -166,7 +163,6 @@ dalchecco.it
 | 🔗 **Tool** | 📝 **Descrizione** |
 |:------------|:------------------|
 | [🔍 OsintCombine](https://www.osintcombine.com/tiktok-quick-search) | Ricerca rapida TikTok (username, hashtag, musica) |
-| [📊 Analisa](https://analisa.io/#) | Analytics avanzata per Instagram e TikTok |
 | [🧑‍🎨 Search4Faces](https://search4faces.com/tt00/index.html) | Ricerca di avatar TikTok tramite riconoscimento facciale |
 | [🕵️ Sticktock](https://sticktock.com/) | Navigazione anonima su TikTok |
 | [👤 Tikface](https://www.tikface.com/) | Visualizzazione anonima dei profili TikTok |
