@@ -207,6 +207,7 @@ dalchecco.it
 | 🔗 **Tool** | 📝 **Descrizione** |
 |:------------|:------------------|
 | [Onlyfinder](https://onlyfinder.com/) | Motore di ricerca per username e posizione |
+| [OnlyFans Finders](https://onlyfansfinders.com/) | Ricerca profili OnlyFans per città, categoria e prezzo |
 | [FansMetrics](https://fansmetrics.com/) | Analisi e trending degli account OnlyFans |
 | [Hubite](https://hubite.com/onlyfans-search/) | Ricerca rapida utenti |
 | [Findr.Fans](https://findr.fans/) | Directory utenti |
