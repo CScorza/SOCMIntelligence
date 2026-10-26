@@ -375,6 +375,7 @@ dalchecco.it
 | [Email Search Tool (Aware)](https://www.aware-online.com/osint-tools/e-mail-search-tool/) | - |
 | [Inoitsu](https://www.hotsheet.com/inoitsu/) | - |
 | [Avatar API](https://avatarapi.com/) | - |
+| [Opsis](https://useopsis.com/) | - |
 
 ---
 
