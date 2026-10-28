@@ -356,20 +356,20 @@ dalchecco.it
 
 | **Online Tools** | **Terminal / GitHub Tools** |
 | :--- | :--- |
-|[Behindtheemail](https://behindtheemail.com/)|
-|[Emailosint](https://emailosint.org/)|
-|[revealer.us](https://revealer.us)|
-| [OSINTIndustries](https://osint.industries/) | [Infoga](https://github.com/m4ll0k/Infoga) |
-| [Castrick](https://castrickclues.com/) | [Email2phonenumber](https://github.com/martinvigo/email2phonenumber) |
+|[Behindtheemail](https://behindtheemail.com/)|[Infoga](https://github.com/m4ll0k/Infoga) |
+|[Emailosint](https://emailosint.org/)|[Email2phonenumber](https://github.com/martinvigo/email2phonenumber) |
+|[revealer.us](https://revealer.us)|[WhatBreach](https://github.com/Ekultek/WhatBreach) |
+| [OSINTIndustries](https://osint.industries/) |[Buster](https://github.com/sham00n/buster) 
+| [Castrick](https://castrickclues.com/) | [ProtOSINT](https://github.com/pixelbubble/ProtOSINT) |
 | [IntelX](https://intelx.io/) | [EmailHarvester](https://pypi.org/project/EmailHarvester/) |
 | [Hunter.io](https://hunter.io/) | [iKy](https://github.com/kennbroorg/iKy) |
 | [Minerva OSINT](https://minervaosint.com/) | [Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r) |
 | [Osintcat](https://osintcat.ru/) | [h8mail (PyPI)](https://pypi.org/project/h8mail/) |
 | [EmailRep](https://emailrep.io/) | [SocialPwned](https://github.com/MrTuxx/SocialPwned) |
 | [SPYdialer](https://www.spydialer.com) | [GHunt](https://github.com/mxrch/GHunt) |
-| [Epieos](https://epieos.com/) | [ProtOSINT](https://github.com/pixelbubble/ProtOSINT) |
-| [OSINT.SH - Reverse Whois](https://osint.sh/reversewhois/) | [Buster](https://github.com/sham00n/buster) 
-| [Email-Format](https://www.email-format.com/) | [WhatBreach](https://github.com/Ekultek/WhatBreach) |
+| [Epieos](https://epieos.com/) | 
+| [OSINT.SH - Reverse Whois](https://osint.sh/reversewhois/) |
+| [Email-Format](https://www.email-format.com/) | 
 | [Email Dossier](https://centralops.net/co/emaildossier.aspx) | - |
 | [Email Headers Tool](https://mxtoolbox.com/EmailHeaders.aspx) | - |
 | [Email Search Tool (Aware)](https://www.aware-online.com/osint-tools/e-mail-search-tool/) | - |
@@ -383,6 +383,4 @@ dalchecco.it
 | **Fonti e Autori** | **Libri Consigliati** |
 | :--- | :--- |
 | [Joe Gray - Practical Social Engineering](https://www.amazon.it/Practical-Social-Engineering-Joe-Gray/dp/171850098X/ref=sr_1_3) | [Paolo Dal Checco - SOCMINT](https://www.dalchecco.it/servizi/intelligence/socmint/) |
-
-|[**Riccardo Meggiato - Social Media Mining**](https://www.amazon.it/gp/product/8850335423/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)|[**Mirko Lapi - Open Source Intelligence**](https://www.amazon.it/gp/product/8896069459/ref=ewc_pr_img_4?smid=A11IL2PNWYJU7H&psc=1)||
-
+|[**Riccardo Meggiato - Social Media Mining**](https://www.amazon.it/gp/product/8850335423/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)||
