@@ -208,6 +208,7 @@ dalchecco.it
 | [Findr.Fans](https://findr.fans/) | Directory utenti |
 | [Dudjob](https://dudjob.com/) | Directory & tool di monitoraggio |
 | [SauceMatch](https://saucematch.com/) | Ricerca inversa di video per adulti: da screenshot, GIF o clip al video originale, con ricerca per volto |
+| [TastyFans](https://tastyfans.com/) | Motore di ricerca di creator OnlyFans e Fansly per nome, nicchia, prezzo e località |
 
 ---
 
