@@ -142,6 +142,7 @@ dalchecco.it
 | [📈 Gramho](https://gramho.com/) | Analisi e visualizzazione di profili pubblici |
 | [🏷️ Hashtagify](http://hashtagify.me/) | Monitoraggio e trending di hashtag |
 | [📊 IGDataHub](https://igdatahub.com/) | Statistiche di profili pubblici: follower, engagement rate e post migliori |
+| [👁️ iStoryTracker](https://istorytracker.com/) | Visualizza in anonimo le Storie di profili Instagram pubblici tramite username, senza login Instagram |
 
 ### 🧩 Estensioni Google Chrome per Instagram
 
