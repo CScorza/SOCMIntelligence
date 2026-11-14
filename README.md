@@ -152,6 +152,7 @@ dalchecco.it
 | [❤️ InsL - Export Likes](https://chrome.google.com/webstore/detail/insl-export-instagram-lik/iiblfonkagipdojommmomopjldpibdbb) | Esporta i like da post e profili |
 | [👥 InsFo - Follower Export Tool](https://chrome.google.com/webstore/detail/insfo-follower-export-too/bckleejkdhlponanidmjfjdigpahlado) | Esporta i follower di un account target |
 | [🛡️ INSSIST - Web Assistant](https://chrome.google.com/webstore/detail/inssist-web-client-for-in/bcocdbombenodlegijagbhdjbifpiijp?hl=pt-BR) | Strumento avanzato per gestione e ghost mode da desktop |
+| [🔎 iFollowTracker](https://chromewebstore.google.com/detail/ifollowtracker-for-instag/ijhkhodnjfdogpidfpamkmghhfkfopgh) | Pannello laterale per profili pubblici: follow recenti, liste follower e unfollow, senza login Instagram |
 
 
 ## 🎥 TikTok OSINT Tools
