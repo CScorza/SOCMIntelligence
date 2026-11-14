@@ -176,6 +176,7 @@ dalchecco.it
 |:------------|:-----------------------------|
 | ![YouTube](https://user-images.githubusercontent.com/98583912/207094756-cfeb0d23-6c1d-4522-80e1-f5742684ef1d.gif) | |
 | [🕓 XXLUKE](https://xxluke.de/subscription-history/) | Mostra la cronologia delle iscrizioni pubbliche di un utente YouTube |
+| [📝 GetYouTubeTranscript](https://getyoutubetranscript.com/) | Estrae la trascrizione di un video YouTube con timestamp, per cercare e citare le parole esatte pronunciate |
 
 ---
 
